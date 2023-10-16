@@ -1,0 +1,10 @@
+.vscode
+__pycache__/
+*.asv
+scratch_frames/
+*.png
+*.idea/
+*.mp4
+*.zip
+*.jpg
+*.mat

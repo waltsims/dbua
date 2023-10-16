@@ -1,0 +1,1 @@
+Download the dataset from the github release page and place the contents into this directory.

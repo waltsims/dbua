@@ -1,0 +1,14 @@
+name: dbua
+channels:
+  - conda-forge
+  - nvidia
+dependencies:
+  - python==3.9
+  - hdf5storage==0.1.19
+  - matplotlib==3.7.2
+  - numpy==1.25.2
+  - tqdm==4.66.1
+  - jaxopt==0.7
+  - optax==0.1.7
+  - typing_extensions
+
