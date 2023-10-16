@@ -10,6 +10,7 @@
 [Dongwoon Hyun](https://profiles.stanford.edu/dongwoon-hyun)<br>
 Stanford University
 
+
 This is the official implementation of the paper "Differentiable Beamforming for Ultrasound Autofocusing."
 
 [![dbua_video](https://img.youtube.com/vi/cUoAsEA5snE/0.jpg)](https://www.youtube.com/watch?v=cUoAsEA5snE)
