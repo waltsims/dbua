@@ -17,10 +17,10 @@ This is the official implementation of the paper "Differentiable Beamforming for
 
 ## High-Level Overview
 
- * dbua.py - main experiment file. Adjust the global configuration parameters to run experiments.
- * das.py -  Delay-and-sum IQ data according to a given time delay profile.
- * paths.py - Calculates the time-of-flight between two points  according to a speed-of-sound map.
- * losses.py - Contains the proposed phase-error and auxiliary loss functions.
+ * [dbua.py](https://github.com/waltsims/dbua/blob/main/dbua.py) - main experiment file. Adjust the global configuration parameters to run experiments.
+ * [das.py](https://github.com/waltsims/dbua/blob/main/das.py) -  Delay-and-sum IQ data according to a given time delay profile.
+ * [paths.py](https://github.com/waltsims/dbua/blob/main/paths.py) - Calculates the time-of-flight between two points  according to a speed-of-sound map.
+ * [losses.py](https://github.com/waltsims/dbua/blob/main/losses.py) - Contains the proposed phase-error and auxiliary loss functions.
 
 ## Getting Started
 
